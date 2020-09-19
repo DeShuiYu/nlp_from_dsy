@@ -1,8 +1,9 @@
 /venv
 /env
 /.ipynb_checkpoints
-./**/.ipynb_checkpoints
+/**/.ipynb_checkpoints
 /.vscode
 /BERT-BiLSTM-CRF-NER-master
 /BERT-pytorch
 注意力机制.ipynb
+/model/.ipynb_checkpoints
