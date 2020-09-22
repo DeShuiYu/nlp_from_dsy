@@ -11,3 +11,4 @@
 /score.py
 /scikit-learn
 /pytorch-crf
+/**/__pycache__
